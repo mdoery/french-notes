@@ -1,4 +1,4 @@
-Words that end in -age tend to be masculine.
+Words that end in -age tend to be masculine<cite>French Demystified</cite>.
 
 Examples:
 
