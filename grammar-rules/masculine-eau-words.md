@@ -7,7 +7,7 @@ Examples:
 1. le bureau - office; desk
 1. le bateau - boat
 1. le gâteau - cake
-1. le plateau - tray ("Comment composer un plateau de fromage ?")
+1. le plateau - tray (["Comment composer un plateau de fromage?"](http://www.marchand-affineur.com/composer-plateau-fromage.php))
 1. le morceau - piece (morsel)
 1. le tableau - painting; blackboard
 1. le château - castle
