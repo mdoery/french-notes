@@ -1,0 +1,1 @@
+cruauté - cruelty
