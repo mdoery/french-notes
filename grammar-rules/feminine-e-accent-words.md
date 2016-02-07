@@ -1,1 +1,2 @@
 cruauté - cruelty
+moitié - half.
